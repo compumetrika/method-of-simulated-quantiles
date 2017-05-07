@@ -1,0 +1,2 @@
+I will directly quote from the authors' working paper frequently, and focus my time on writing code. Future iterations of this will flesh out discussion and description further. 
+
