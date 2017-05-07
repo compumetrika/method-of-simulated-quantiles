@@ -22,11 +22,8 @@ The rest of this repo contains notebooks and code files which implement one of t
 Finally, references: 
 
 - [Dominicy and Veredas (2013), Method of Simulated Quantiles](http://www.sciencedirect.com/science/article/pii/S0304407612001947) at ScienceDirect
-  - [SSRN WP version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1561185&rec=1&srcabs=770785&alg=7&pos=8)
-
-
-
-
-
+    - [SSRN WP version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1561185&rec=1&srcabs=770785&alg=7&pos=8)
+- [McCulloch (1986), Simple consistent estimators of stable distribution parameters](http://www.tandfonline.com/doi/abs/10.1080/03610918608812563) 
+    - [Author's draft version](http://www.econ.ohio-state.edu/jhm/papers/stabparm.pdf)
 
 
