@@ -1,2 +1,13 @@
+    
+# LAST STEP: Take:
+# - theory quantiles
+# - 1/2 function of quantiles
+# ... and find the first mu, sigma values
+# ... and maybe also 
+# and THEN construct the final Theta_squiggle, using theory_q, sigma, mu!
+
+# Where At: here! See above!
+
+
 I will directly quote from the authors' working paper frequently, and focus my time on writing code. Future iterations of this will flesh out discussion and description further. 
 
